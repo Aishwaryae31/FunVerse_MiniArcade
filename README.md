@@ -45,13 +45,6 @@ Perfect for deterministic games like Tic Tac Toe.
 Easy to implement with recursion.
 Demonstrates core AI logic without external libraries.
 
-How to Run
-Clone the Repository
-git clone https://github.com/your-username/FunVerse-Mini-Arcade.git
-
-Navigate to Project Folder
-cd FunVerse-Mini-Arcade
-
 Run the Application
 python funverse.py
 (Make sure Python and Tkinter are installed)
